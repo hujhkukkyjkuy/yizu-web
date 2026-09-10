@@ -1,0 +1,26 @@
+{
+  "name": "易租 YiZu — 日出康城租售",
+  "short_name": "易租",
+  "description": "日出康城（LOHAS Park）專屬租售平台：留學生／人才篩選、合租人均價、近站、WhatsApp 直達。",
+  "start_url": "/yizu-web/",
+  "scope": "/yizu-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3FAF7",
+  "theme_color": "#0D9F6E",
+  "lang": "zh-HK",
+  "categories": ["lifestyle", "business"],
+  "icons": [
+    {
+      "src": "/yizu-web/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/yizu-web/assets/images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

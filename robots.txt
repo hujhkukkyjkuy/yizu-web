@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hujhkukkyjkuy.github.io/yizu-web/sitemap.xml
